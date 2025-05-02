@@ -41,7 +41,3 @@ Apasionado por resolver problemas con código limpio y escalable. Trabajo con te
 ```bash
 curl https://github-readme-stats.vercel.app/api/pin/?username=fabiangallardo&repo=nombre-del-repo
 
-## 📫 ¡Conectemos!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabian-gallardo/)
-- 📧 [fabian.gallardo@example.com](mailto:gallardofabianvcpz@gmail.com)
